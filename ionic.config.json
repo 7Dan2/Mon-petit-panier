@@ -1,0 +1,7 @@
+{
+  "name": "Mon-petit-panier",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
