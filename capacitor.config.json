@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Mon-petit-panier",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
